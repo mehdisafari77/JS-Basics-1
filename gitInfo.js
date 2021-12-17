@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+const gitDefinition = 'A tool that allows file and folder tracking within a project or repository'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+const gitHubDefinition = "Github is a place where developers, or companies store their repositories, allowing collaboration, organization and a place that code won't get lost. One can have both public or private repositories"
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -25,7 +25,8 @@
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+const gitInitDefinition = 'Adding a .git file to a directory, in order to make that directory a git tracked folder that can later be pushed into github etc. Having a git tracked directory helps with less mistakes and also being able to revert to some place that your code was clean in case you messed up'
+
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +34,7 @@
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+const gitCloneDefinition = 'When a respository is created on Github or other platforms such as BitBucket or Gitlab, they get assigned some links or ways for users to clone that code in otheir local machines, they can do that with the git clone command followed by the link of the respository'
 
 //////////////////PROBLEM 5////////////////////
 /*
