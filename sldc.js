@@ -19,3 +19,7 @@
     The first one is done for you. 
 */
 const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
+
+const analysisOfRequirements = 'The step where we PsuedoCode in order to exactly know what paths we want to take, and what technologies we want to use'
+
+const design = 'Wireframing or designing the idea that we have either on paper or an online tool such as Figma'
