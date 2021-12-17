@@ -42,7 +42,7 @@ const gitCloneDefinition = 'When a respository is created on Github or other pla
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+const gitStatusDefinition = 'When typed in the terminal, this command shows the status of changes that a user has made since the last push or commit, in order to know where changes have been made'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,7 +53,9 @@ const gitCloneDefinition = 'When a respository is created on Github or other pla
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+const gitAddDefinition = 'This will track and target the changed files, and make them ready for a commit, basically taking a snapshot of latest code situation'
+
+const gitAddCode = 'git add . or git add -A'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,8 +66,9 @@ const gitCloneDefinition = 'When a respository is created on Github or other pla
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+const gitCommitDefinition = 'This step comes right after the git add method, in order to allow the user to commit the code, followed along by a message in order to know what has been done until this moment of the code'
 
+const gitCommitCode = 'git commit -m "message'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,4 +76,4 @@ const gitCloneDefinition = 'When a respository is created on Github or other pla
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+const gitPushDefinition = "This is the last step in the git workflow of a project for each commit, after all code is grabbed, a commmit message is written, then the code can be push to the targetet branch within the cloud of where the project is stored, 'Github, Gitlab, Bitbucket, etc.' "
